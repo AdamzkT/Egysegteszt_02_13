@@ -1,0 +1,14 @@
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Egysegteszt_AdamszkiTamas_Tests.dll
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Egysegteszt_AdamszkiTamas_Tests.pdb
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Egysegteszt_AdamszkiTamas.exe
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Egysegteszt_AdamszkiTamas.pdb
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Egysegteszt_AdamszkiTamas.exe.config
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\obj\Debug\Egysegteszt_AdamszkiTamas_Tests.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\obj\Debug\Egysegteszt_AdamszkiTamas_Tests.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\obj\Debug\Egysegte.A18F3EB0.Up2Date
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\obj\Debug\Egysegteszt_AdamszkiTamas_Tests.dll
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas_Tests\obj\Debug\Egysegteszt_AdamszkiTamas_Tests.pdb

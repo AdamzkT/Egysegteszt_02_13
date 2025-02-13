@@ -1,0 +1,7 @@
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas\bin\Debug\Egysegteszt_AdamszkiTamas.exe.config
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas\bin\Debug\Egysegteszt_AdamszkiTamas.exe
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas\bin\Debug\Egysegteszt_AdamszkiTamas.pdb
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas\obj\Debug\Egysegteszt_AdamszkiTamas.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas\obj\Debug\Egysegteszt_AdamszkiTamas.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas\obj\Debug\Egysegteszt_AdamszkiTamas.exe
+C:\Users\diak\Desktop\feladatok\kb\02_13\Egysegteszt_AdamszkiTamas\Egysegteszt_AdamszkiTamas\obj\Debug\Egysegteszt_AdamszkiTamas.pdb
